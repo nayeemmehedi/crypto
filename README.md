@@ -1,3 +1,5 @@
 # crypto
+      
+      node -inter
            
-           crypto.randomUUID(64).toString('hex')
+          crypto.randomBytes(64).toString('hex')
